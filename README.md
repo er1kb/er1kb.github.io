@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# er1kb.github.io
 
-You can use the [editor on GitHub](https://github.com/er1kb/er1kb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [**Malmo150k**](https://er1kb.github.io/malmo150k/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An explorable explanation of how future demographics might impact the city, based on the 2015 population forecast which predicted the city to grow by 150 thousand people until 2040. Uses JavaScript libraries Tangle, Crossfilter and D3. 
 
-### Markdown
+- **Elm probabilities**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/er1kb/er1kb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+An experimental web visualization toolkit built on top of the Elm functional reactive programming language. 
+###Examples (reactive features are for desktop computer with mouse only):
+1. [Polar and cartesian function plotting](http://er1kb.github.io/elm-probabilities/examples/trig_with_overlay.html)
+2. [Interactive linear regression](http://er1kb.github.io/elm-probabilities/examples/Interactive_regression.html)
+3. [Static plot of linear regressions](http://er1kb.github.io/elm-probabilities/examples/linear_regression.html)
+4. [Approximating a binomial distribution](http://er1kb.github.io/elm-probabilities/examples/binom_en.html)
+5. [Dogenometry](http://er1kb.github.io/elm-probabilities/examples/Dogenometry1.html)
