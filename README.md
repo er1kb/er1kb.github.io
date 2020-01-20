@@ -1,5 +1,3 @@
-# er1kb.github.io
-
 - [**Malmo150k**](https://er1kb.github.io/malmo150k/)
 
 An explorable explanation of how future demographics might impact the city, based on the 2015 population forecast which predicted the city to grow by 150 thousand people until 2040. Uses JavaScript libraries Tangle, Crossfilter and D3. 
