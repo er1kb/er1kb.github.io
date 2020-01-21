@@ -5,7 +5,8 @@ An explorable explanation of how future demographics might impact the city, base
 - **Elm probabilities**
 
 An experimental web visualization toolkit built on top of the Elm functional reactive programming language. 
-###Examples (reactive features are for desktop computer with mouse only):
+
+Examples (the reactive features are not touchscreen compatible - mouse only):
 1. [Polar and cartesian function plotting](http://er1kb.github.io/elm-probabilities/examples/trig_with_overlay.html)
 2. [Interactive linear regression](http://er1kb.github.io/elm-probabilities/examples/Interactive_regression.html)
 3. [Static plot of linear regressions](http://er1kb.github.io/elm-probabilities/examples/linear_regression.html)
